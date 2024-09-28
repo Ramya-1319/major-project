@@ -1,1 +1,1 @@
-majaor project for forntend
+to do list app project
